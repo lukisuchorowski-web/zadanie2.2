@@ -9,5 +9,6 @@
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="Moje pierwsze okno w Avalonia UI!"
                FontSize="32"
-               FontWeight="Bold" />
+               FontWeight="Bold"
+               FontStyle="Italic" />
 </Window>
